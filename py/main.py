@@ -50,7 +50,12 @@ class ColumnConfig:
             'HVP',
             'WCI',
             'BBQ',
-            'KAN'
+            'KAN',
+            'MTO',
+            'CAI',
+            'CAP',
+            'SWS',
+            'BLD'
         }
         self.area_replacements = {  # Area abbreviations to full names
             'Bdg': 'Bandung',
